@@ -10,9 +10,8 @@ class Game:
         self.latest_index = 0
 
     def validate_guess(self, move: Move):
-        print(f"Does Your Word Have A {move.guess}"})
+        print(move.guess)
         for i in range(self.word_length +1): 
-            input(f"Letter {i+1}")
     
     def add_move(self, move: Move):
         self.moves.append(Move)
