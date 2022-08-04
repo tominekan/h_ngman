@@ -1,4 +1,4 @@
-# H_ng Man
+# H_ng Man (abandoned in development, maybe come back to later)
 
 This is a game of h_ngman with a twist, **you** are the executioner.
 
